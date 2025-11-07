@@ -10,7 +10,7 @@ result = []
 
 
 for i in range(N):
-    temp = input()
+    temp = int(input())
     A.append(temp)
     
 for i in A:
